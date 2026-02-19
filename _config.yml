@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+title: Kattié AYEREBI — Data Analyst & Économètre
+description: >
+  M1 Quantification et Analyse Économique · Python · R · SQL · Power BI
+  | Recherche stage Data Analyst (2–6 mois, à partir d'Avril 2026)
+
+#logo: assets/img/photo.jpg   #le dossier assets/img/)
+show_downloads: false
